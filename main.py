@@ -1,5 +1,5 @@
 def main():
-    print("Proyecto listo bb ✅")
+    print("Proyecto en desarrollo 🚀")
 
 
 if __name__ == "__main__":
